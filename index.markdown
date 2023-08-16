@@ -4,8 +4,9 @@
 
 layout: home
 ---
-## My Projects
-### Shadow Walker  
+
+### **Shadow Walker**  
+
 <img src="assets/images/ShadowWalkerCover.png" alt="Shadow Walker cover" title="Shadow Walker" width="150" height="150"/>  
 
 [GitHub repository](https://github.com/chantalsantos7/stealth-game-repo/tree/main)
@@ -19,10 +20,14 @@ Main features:
 - A 'distraction' ability - player can place an object that emits a spooky sound, drawing any nearby enemies to that location.
 
 
-### Street Smiter
+### **Street Smiter**
+
 <img src="assets/images/StreetSmiterCover.png" alt="Street Smiter cover" title="Street Smiter" width="150" height="150"/>  
 
+I am a Unity Developer for a mobile game project based on the Cantonese custom of 'villain hitting'. We submitted a prototype for consideration for the WINGS ELEVATE Game Accelerator 2023 grant and were the first runner-up.
 
-I am a Unity Developer for a mobile game project based on the Cantonese custom of 'villain hitting'.
 
-
+My responsibilities:
+- Implementing gameplay features for the prototype.
+- Implementing a modular event-driven architecture using Scriptable Objects for the alpha version, making it easier for disparate systems to interact with each other.
+- Writing technical documentation for the systems I am responsible for.
