@@ -1,12 +1,9 @@
-﻿---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
 ---
-## My Projects
-### Shadow Walker  
-<img src="assets/images/ShadowWalkerCover.png" alt="Shadow Walker cover" title="Shadow Walker" width="150" height="150"/>  
+layout: post
+title:  "Shadow Walker"
+date:   2023-08-11 12:11:30 +0100
+categories: game-project
+---
 
 [GitHub repository](https://github.com/chantalsantos7/stealth-game-repo/tree/main)
 
@@ -19,10 +16,5 @@ Main features:
 - A 'distraction' ability - player can place an object that emits a spooky sound, drawing any nearby enemies to that location.
 
 
-### Street Smiter
-<img src="assets/images/StreetSmiterCover.png" alt="Street Smiter cover" title="Street Smiter" width="150" height="150"/>  
-
-
-I am a Unity Developer for a mobile game project based on the Cantonese custom of 'villain hitting'.
 
 
